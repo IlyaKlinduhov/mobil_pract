@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Ilya K\.android\avd\Pixel_7_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-02-17T15:02:34.400508700Z" />
+        </State>
+      </entry>
+      <entry key="buttonclicker">
+        <State />
+      </entry>
+      <entry key="control_lesson1">
+        <State />
+      </entry>
+      <entry key="layouttype">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
