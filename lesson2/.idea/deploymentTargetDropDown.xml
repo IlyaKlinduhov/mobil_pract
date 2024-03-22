@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="ActivityLifestyle">
+        <State />
+      </entry>
+      <entry key="Dialog">
+        <State />
+      </entry>
+      <entry key="IntentFilter">
+        <State />
+      </entry>
+      <entry key="MultiActivity">
+        <State />
+      </entry>
+      <entry key="NotificationApp">
+        <State />
+      </entry>
+      <entry key="ToastApp">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
