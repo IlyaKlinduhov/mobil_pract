@@ -3168,6 +3168,8 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id button
+id button2
+id button3
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3309,6 +3311,7 @@ id linear
 id listMode
 id list_item
 id m3_side_sheet
+id main
 id marquee
 id masked
 id match_constraint

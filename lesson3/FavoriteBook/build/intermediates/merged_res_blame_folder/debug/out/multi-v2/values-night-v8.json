@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "ru.mirea.klinduhovir.favoritebook.FavoriteBook-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
+            "outputFile": "ru.mirea.klinduhovir.favoritebook-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ilya K\\.gradle\\caches\\transforms-3\\b1741c2033ae6eec819ff5ea06ca1704\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ilya K\\AndroidStudioProjects\\lesson3\\FavoriteBook\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\Ilya K\\AndroidStudioProjects\\lesson3\\favoritebook\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

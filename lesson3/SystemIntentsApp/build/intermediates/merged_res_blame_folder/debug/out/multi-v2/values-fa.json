@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "ru.mirea.klinduhovir.systemintentsapp.SystemIntentsApp-mergeDebugResources-29:/values-fa/values-fa.xml",
+            "outputFile": "ru.mirea.klinduhovir.systemintentsapp-mergeDebugResources-29:/values-fa/values-fa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ilya K\\.gradle\\caches\\transforms-3\\16088aea6844a21f0ae8707202a192eb\\transformed\\core-1.9.0\\res\\values-fa\\values-fa.xml",

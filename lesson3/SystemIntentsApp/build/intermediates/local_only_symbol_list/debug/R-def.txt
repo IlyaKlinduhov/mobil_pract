@@ -5,6 +5,9 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id button
+id button2
+id button3
+id main
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round

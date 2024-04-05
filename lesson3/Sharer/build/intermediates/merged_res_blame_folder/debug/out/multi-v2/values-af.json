@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "ru.mirea.klinduhovir.sharer.Sharer-mergeDebugResources-29:/values-af/values-af.xml",
+            "outputFile": "ru.mirea.klinduhovir.sharer-mergeDebugResources-29:/values-af/values-af.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ilya K\\.gradle\\caches\\transforms-3\\b1741c2033ae6eec819ff5ea06ca1704\\transformed\\appcompat-1.6.1\\res\\values-af\\values-af.xml",

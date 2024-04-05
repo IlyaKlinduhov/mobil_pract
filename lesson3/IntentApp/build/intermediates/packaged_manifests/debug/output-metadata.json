@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "ru.mirea.klinduhovir.lesson3",
+  "applicationId": "ru.mirea.klinduhovir.intentapp",
   "variantName": "debug",
   "elements": [
     {

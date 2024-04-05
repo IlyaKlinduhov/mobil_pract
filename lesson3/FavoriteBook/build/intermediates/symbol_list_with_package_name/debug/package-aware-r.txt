@@ -3168,6 +3168,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id button
+id button2
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3241,7 +3242,7 @@ id easeInOut
 id easeOut
 id east
 id edge
-id editText
+id editTextText
 id edit_query
 id elastic
 id embed
@@ -3310,6 +3311,7 @@ id linear
 id listMode
 id list_item
 id m3_side_sheet
+id main
 id marquee
 id masked
 id match_constraint
@@ -3517,7 +3519,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textViewBook
+id textView
+id textView2
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3792,6 +3795,7 @@ string abc_toolbar_collapse_description
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
+string bookName
 string bottom_sheet_behavior
 string bottomsheet_action_collapse
 string bottomsheet_action_expand
@@ -3802,11 +3806,13 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
+string dataInput
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string favoriteBookHint
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -3915,6 +3921,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string returnButton
 string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description

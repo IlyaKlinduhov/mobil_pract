@@ -1,4 +1,4 @@
-ru.mirea.klinduhovir.lesson3
+ru.mirea.klinduhovir.intentapp
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -3309,6 +3309,7 @@ id linear
 id listMode
 id list_item
 id m3_side_sheet
+id main
 id marquee
 id masked
 id match_constraint
@@ -5192,5 +5193,3 @@ styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
 styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration ifTagNotSet ifTagSet motionInterpolator motionTarget onStateTransition pathMotionArc setsTag transitionDisable upDuration viewTransitionMode
 styleable include constraintSet
-xml backup_rules
-xml data_extraction_rules
