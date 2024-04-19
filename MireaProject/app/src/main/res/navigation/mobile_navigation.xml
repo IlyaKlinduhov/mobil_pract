@@ -34,6 +34,11 @@
         android:name="ru.mirea.klinduhovir.mireaproject.WebViewFragment"
         android:label="WebMonkey"
         tools:layout="@layout/fragment_web_view" />
+    <fragment
+        android:id="@+id/lesson4Fragment"
+        android:name="ru.mirea.klinduhovir.mireaproject.lesson4Fragment"
+        android:label="fragment_lesson4"
+        tools:layout="@layout/fragment_lesson4" />
 
 
 </navigation>

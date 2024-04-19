@@ -25,5 +25,10 @@
             android:id="@+id/webViewFragment"
             android:icon="@drawable/ic_action_web"
             android:title="WebMonkey"/>
+
+        <item
+            android:id="@+id/lesson4Fragment"
+            android:icon="@drawable/ic_wheather"
+            android:title="lesson4"/>
     </group>
 </menu>
