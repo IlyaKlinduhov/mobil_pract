@@ -38,5 +38,15 @@
             android:id="@+id/audioFragment"
             android:icon="@drawable/ic_audio"
             android:title="audio"/>
+
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@drawable/ic_profile"
+            android:title="Профиль"/>
+
+        <item
+            android:id="@id/fileFragment"
+            android:icon="@drawable/ic_file"
+            android:title="Работа с файлами"/>
     </group>
 </menu>
