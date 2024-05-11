@@ -68,6 +68,7 @@ public class AuthActivity extends AppCompatActivity {
                         if(task.isSuccessful()){
                             Intent intent = new Intent(AuthActivity.this, MainActivity.class);
                             startActivity(intent);
+                            finish();
                         }else{
                             Toast.makeText(AuthActivity.this,
                                     "failed",

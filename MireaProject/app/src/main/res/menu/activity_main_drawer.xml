@@ -49,9 +49,9 @@
             android:icon="@drawable/ic_file"
             android:title="Работа с файлами"/>
 
-        <!--<item
+        <item
             android:id="@+id/mapFragment"
             android:icon="@drawable/ic_map"
-            android:title="Заведения"/>-->
+            android:title="Заведения"/>
     </group>
 </menu>
