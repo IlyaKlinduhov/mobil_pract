@@ -5,9 +5,9 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/startFragment"
+            android:id="@+id/networkFragment"
             android:icon="@drawable/ic_start"
-            android:title="startFragment"/>
+            android:title="weather"/>
 
         <item
             android:id="@+id/dataFragment"
@@ -48,5 +48,10 @@
             android:id="@id/fileFragment"
             android:icon="@drawable/ic_file"
             android:title="Работа с файлами"/>
+
+        <!--<item
+            android:id="@+id/mapFragment"
+            android:icon="@drawable/ic_map"
+            android:title="Заведения"/>-->
     </group>
 </menu>
